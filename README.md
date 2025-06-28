@@ -83,7 +83,7 @@ pip install -r requirements.txt
 ### 4. Run the Notebook
 
 ```bash
-jupyter notebook fraud_detection_paysim.ipynb
+jupyter notebook fraud_detection.ipynb
 ```
 
 ---
