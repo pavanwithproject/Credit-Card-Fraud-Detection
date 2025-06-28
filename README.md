@@ -64,8 +64,8 @@ Generated and saved in the `images/` folder:
 ### 1. Clone the Repository
 
 ```bash
-git clone 
-cd Fraud-Detection-PaySim
+git clone https://github.com/pavanwithproject/Credit-Card-Fraud-Detection.git
+cd Fraud-Detection
 ```
 
 ### 2. Install Dependencies
@@ -95,7 +95,7 @@ Fraud-Detection-PaySim/
 │
 ├── images/                    # Saved visualizations
 ├── paysim.csv                # Dataset file
-├── fraud_detection_paysim.ipynb   # Jupyter notebook (main project)
+├── fraud_detection.ipynb   # Jupyter notebook (main project)
 ├── requirements.txt          # Dependencies               
 └── README.md                 # Project documentation
 ```
